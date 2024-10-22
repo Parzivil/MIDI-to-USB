@@ -3,5 +3,5 @@ My Custom small form factor MIDI to USB.
 
 I had a need to use an old piano with a midi output with my modern DAW system, so I designed this to be as low cost as possible as well as as small as posible
 
-				12.00366
+			Cost:	$12.00366
 ![image](https://github.com/user-attachments/assets/f532a4b4-8b6c-4145-aeec-7503bde8fac0)
